@@ -1,0 +1,26 @@
+{
+  "name": "snowreport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.30.0",
+    "express": "^4.16.3",
+    "express-async-errors": "^2.1.2",
+    "joi": "^13.2.0",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.2.1",
+    "moment": "^2.22.1",
+    "mongoose": "^5.0.16",
+    "npm": "^6.0.0",
+    "request": "^2.85.0",
+    "winston": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

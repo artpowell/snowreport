@@ -1,0 +1,6 @@
+*.log
+node_modules/
+coverage/
+components/routes/_*
+.idea/
+orig-index.js
